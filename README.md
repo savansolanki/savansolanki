@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Savan Solanki</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+full+stack+developer)](https://git.io/typing-svg)
+
 <h3 align="center">Experienced Software Engineer with a demonstrated history of working in the information technology and services industry from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savansolanki&label=Profile%20views&color=0e75b6&style=flat" alt="savansolanki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savansolanki" alt="savansolanki" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savansolanki" alt="savansolanki" /></a> </p> -->
 
 - 🔭 I’m currently working on **Laravel & Vue.JS**
 
