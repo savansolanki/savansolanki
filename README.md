@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/savansolanki](https://github.com/savansolanki)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/savansolanki](https://github.com/savansolanki) -->
 
 - 📫 How to reach me **savan.solanki@outlook.com**
 
