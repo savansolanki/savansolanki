@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Laravel & Vue.JS**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Node JS**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/savansolanki](https://github.com/savansolanki) -->
 
